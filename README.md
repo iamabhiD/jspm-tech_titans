@@ -24,4 +24,6 @@ Mongoose - For modeling and mapping MongoDB data to JavaScript
 Dotenv - Zero Dependency module that loads environment variables
 Nodemon - To monitor changes to the program code that is being developed
 Database
-MongoDB - It provides a free cloud service to store MongoDB collections.
+MongoDB - It provides a free cloud service to store MongoDB collections
+
+![alt text](<er diagram-1.png>)
